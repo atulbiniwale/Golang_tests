@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "powershell.codeFolding.showLastLine": false
+}
